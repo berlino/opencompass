@@ -1,5 +1,7 @@
 import os
 
+os = os.build()
+
 from mmengine.config import read_base
 
 with read_base():
